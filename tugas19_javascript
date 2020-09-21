@@ -1,0 +1,22 @@
+var kalimat="Semangat..."
+var kalimat2=kalimat.repeat(5)
+console.log(kalimat2)
+
+var bintang="*****"
+var bintang2=bintang.repeat(1)
+var bintang3=bintang.repeat(5)
+var bintang4=bintang.repeat(8)
+var bintang5=bintang.repeat(12)
+var bintang6=bintang.repeat(16)
+var bintang7=bintang.repeat(8)
+var bintang8=bintang.repeat(5)
+var bintang9=bintang.repeat(1)
+
+console.log(bintang2)
+console.log(bintang3)
+console.log(bintang4)
+console.log(bintang5)
+console.log(bintang6)
+console.log(bintang7)
+console.log(bintang8)
+console.log(bintang9)
